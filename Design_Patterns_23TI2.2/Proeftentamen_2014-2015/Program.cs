@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Proeftentamen_2014_2015.Fietsenmakers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace Proeftentamen_2014_2015
     {
         static void Main(string[] args)
         {
+            TestFietsenmaker.TestFietsenmakers();
+            Console.ReadLine();
         }
     }
 }
