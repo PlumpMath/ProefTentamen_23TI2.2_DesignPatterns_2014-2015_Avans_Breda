@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Fietsenmakers\Fietsenmaker.cs" />
     <Compile Include="Fietsenmakers\FijnKlijnFietsenmaker.cs" />
+    <Compile Include="Fietsenmakers\HetStalenStadsrosFietsenmaker.cs" />
     <Compile Include="Fietsenmakers\SuperStoerFietsenmaker.cs" />
     <Compile Include="Fietsenmakers\TestFietsenmaker.cs" />
     <Compile Include="Fietsen\AllTerrainBike.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Versnellingen\Derailler.cs" />
+    <Compile Include="Versnellingen\GeenVersnelling.cs" />
     <Compile Include="Versnellingen\IVersnelling.cs" />
     <Compile Include="Versnellingen\NaafVersnelling.cs" />
     <Compile Include="Versnellingen\Versnelling.cs" />
