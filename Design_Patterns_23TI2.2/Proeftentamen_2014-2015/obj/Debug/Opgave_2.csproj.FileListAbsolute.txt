@@ -1,0 +1,6 @@
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\bin\Debug\Proeftentamen_2014-2015.exe.config
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\bin\Debug\Proeftentamen_2014-2015.exe
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\bin\Debug\Proeftentamen_2014-2015.pdb
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\obj\Debug\Opgave_2.csprojResolveAssemblyReference.cache
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\obj\Debug\Proeftentamen_2014-2015.exe
+C:\Users\Roel Suntjens\Documents\GitHub\ProefTentamen_23TI2.2_DesignPatterns_2014-2015_Avans_Breda\Design_Patterns_23TI2.2\Proeftentamen_2014-2015\obj\Debug\Proeftentamen_2014-2015.pdb
